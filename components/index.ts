@@ -1,0 +1,1 @@
+export { default as Home } from './responsive-menu/ResponsiveHome';
